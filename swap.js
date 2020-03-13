@@ -1,0 +1,20 @@
+var n=10;
+var m=11;
+console.log(n);
+console.log(m);
+var n=m+n;
+var m=n-m;
+var n=n-m;
+console.log(n);
+console.log(m);
+
+var b=11;
+var a=10;
+console.log(a);
+console.log(b);
+var temp;
+temp=b;
+b=a;
+a=temp;
+console.log(a);
+console.log(b);
